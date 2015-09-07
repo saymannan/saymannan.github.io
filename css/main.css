@@ -669,11 +669,7 @@ Change widths as necessary
    padding-left: 20px;
    border-left: 1px solid #f1f1f1;
  }
- 
-   .sidebar {
-   padding-left: 20px;
-   border-left: 1px solid #f1f1f1;
- }
+
  /* COLUMN GRID */
  .g1,.g2,.g3 {display:inline; float: left}
 
